@@ -1,5 +1,5 @@
 # SIR-model
-A simple deterministic SIR model that tracks the spread of diseases through Susceptible, Infected, and Removed members of the population
+A simple deterministic SIR model that tracks the spread of diseases through Susceptible, Infected, and Removed members of the population over a number of days.
 
 # Formulas    
 Change of susceptible population over time    
